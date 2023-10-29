@@ -1,3 +1,5 @@
 # Base layout template with Gulp, SCSS and Stylelint
 
-First landing page with using BEM technology and Javascript. Based on template https://www.figma.com/file/Ic3SlZjkATYaS7uTifZAIk/BIKE?node-id=0%3A1
+MyBike landing page using BEM technology, JS.
+ - Link https://andriy3323.github.io/MyBike-landing/
+ - Based on template https://www.figma.com/file/Ic3SlZjkATYaS7uTifZAIk/BIKE?type=design&node-id=0-1&mode=design
